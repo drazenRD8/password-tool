@@ -39,4 +39,4 @@ Unesi dužinu lozinke: 16
 
 ## Napomena
 
-Ovaj alat je napravljen za edukaciju i ličnu upotrebu.
+Ovaj alat je napravljen za edukaciju.
